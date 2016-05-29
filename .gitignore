@@ -1,3 +1,4 @@
 pyallpay.egg-info
 dist
 README.rst
+*.pyc
